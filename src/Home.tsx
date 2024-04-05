@@ -633,7 +633,7 @@ const Home = (props: HomeProps) => {
             display="block"
             style={{ marginTop: 7, color: "grey" }}
           >
-            Powered by METAPLEX
+            Baby-sol.com 
           </Typography>
         </Paper>
       </Container>
